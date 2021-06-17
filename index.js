@@ -8,7 +8,6 @@ function Scooter (year, color, model) {
      this.name = name
      this.age = age
      this.experience = experience
-
  }
 
  function PickupLocation (address,city) {
