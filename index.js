@@ -13,5 +13,5 @@ function Scooter (year, color, model) {
 
  function PickupLocation (address,city) {
      this.address = address
-     this.city = city 
+     this.city = city
  }
